@@ -28,8 +28,8 @@ To run the project, ensure you have the necessary dependencies. You can install 
 If you haven’t already, clone the repository using the following command:
 
 ```bash
-git clone https://github.com/debjit721212/trimester1/apexproject.git
-cd trimester1/apexproject
+git clone https://github.com/debjit721212/trimester1-apexproject.git
+cd trimester1-apexproject
 2. Install Dependencies
 Install the required Python libraries by running:
 
@@ -132,3 +132,5 @@ Conclusion
 This project demonstrates the end-to-end process of customer segmentation using clustering algorithms. It involves data extraction, preprocessing, clustering, and visualization to understand customer behavior and make decisions based on the clustering results.
 
 Feel free to explore the notebooks and adapt the project for your use cases!
+
+Spacial Thanks to Akash, Anisha and Kritanhik !! 
